@@ -12,6 +12,15 @@
 .env.test.local
 .env.production.local
 
+# Android Studio
+.gradle
+local.properties
+build/
+.navigation
+captures/
+output.json
+*.iml
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
